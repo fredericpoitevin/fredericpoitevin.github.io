@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Light on"
+date:   2017-11-28 22:44:38 -0800
+categories: jekyll update
+---
+Welcome to my homepage. Content should come in due time.
+
