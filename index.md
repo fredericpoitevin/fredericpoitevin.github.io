@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1 class="page-heading">Welcome</h1>
+<h1 class="page-heading">This website is currently being built...</h1>
 
   <blockquote>
   Goal: explain how aspects of my research fit in the broader context that is "we need to see the building blocks of life in action".<br>
