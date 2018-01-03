@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: subpage
 title: Projects
-permalink: /projects/
+permalink: /projects/plgic
 ---
 
 <h1> Structural Dynamics of pentameric ligand-gated ion channels </h1>
-
-<h1> Structural Dynamics of the ribosome </h1>
 
