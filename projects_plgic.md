@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: projects
+parent: Projects
 subtitle: pentameric ligand-gated ion channels
 permalink: /projects/plgic
 ---
