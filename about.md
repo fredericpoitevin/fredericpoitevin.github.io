@@ -15,4 +15,3 @@ I also enjoy devising modeling tools that help generate working hypothesis.
 
 I am increasingly concerned with the potential “real-life” outcome of my work, and started to factor that aspect in my working routine.
 
-{% include linkedin_badge.html %}
