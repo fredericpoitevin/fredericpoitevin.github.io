@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1 class="page-heading">This website is currently being built...</h1>
+<!--h1 class="page-heading">This website is currently being built...</h1-->
 
   <blockquote>
   I am a structural biologist, interested in the mechanics of living cells and their components.<br>
